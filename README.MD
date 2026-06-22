@@ -33,7 +33,7 @@ La consigna establece que el mismo prompt debe ejecutarse en distintos agentes s
 > Reemplazar por la URL final del deploy.
 
 ```text
-https://TU-PROYECTO.vercel.app
+https://dswf-pfo-2.vercel.app/
 ```
 
 ---
@@ -41,7 +41,7 @@ https://TU-PROYECTO.vercel.app
 # Repositorio GitHub
 
 ```text
-https://github.com/Ferchulobo777/NOMBRE-DEL-REPOSITORIO
+https://github.com/Ferchulobo777/DSWF-PFO2
 ```
 
 ---
