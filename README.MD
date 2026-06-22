@@ -30,19 +30,15 @@ La consigna establece que el mismo prompt debe ejecutarse en distintos agentes s
 
 ## Enlace Principal (Vercel)
 
-> Reemplazar por la URL final del deploy.
+> URL final del despliegue del proyecto unificado.
 
-```text
-https://dswf-pfo-2.vercel.app/
-```
+[https://dswf-pfo-2.vercel.app/](https://dswf-pfo-2.vercel.app/)
 
 ---
 
 # Repositorio GitHub
 
-```text
-https://github.com/Ferchulobo777/DSWF-PFO2
-```
+[https://github.com/Ferchulobo777/DSWF-PFO2](https://github.com/Ferchulobo777/DSWF-PFO2)
 
 ---
 
@@ -50,25 +46,25 @@ https://github.com/Ferchulobo777/DSWF-PFO2
 
 ## Agente Nº 1
 
-**Plataforma:** Codex
+**Plataforma:** Codex  
+**Modelo:** GPT-5.5  
 
-**Modelo:** GPT-5.5
+**Resultado:** Landing Page generada automáticamente utilizando el prompt definido para la práctica.
 
-**Resultado:**
-
-Landing Page generada automáticamente utilizando el prompt definido para la práctica.
+* **Página Desplegada:** [https://agent-codex-sable.vercel.app/](https://agent-codex-sable.vercel.app/)
+* **Repositorio:** [https://github.com/Ferchulobo777/AGENT-CODEX](https://github.com/Ferchulobo777/AGENT-CODEX)
 
 ---
 
 ## Agente Nº 2
 
-**Plataforma:** Claude Code
+**Plataforma:** Claude Code  
+**Modelo:** Claude Sonnet  
 
-**Modelo:** Claude Sonnet
+**Resultado:** Landing Page generada automáticamente utilizando exactamente el mismo prompt.
 
-**Resultado:**
-
-Landing Page generada automáticamente utilizando exactamente el mismo prompt.
+* **Página Desplegada:** [https://agent-claude-chi.vercel.app/](https://agent-claude-chi.vercel.app/)
+* **Repositorio:** [https://github.com/Ferchulobo777/AGENT-CLAUDE](https://github.com/Ferchulobo777/AGENT-CLAUDE)
 
 ---
 
