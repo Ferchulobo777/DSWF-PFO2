@@ -128,26 +128,24 @@ Comienza a escribir el código directamente.
 
 ## Portada del Proyecto
 
----
-
 <div align="center">
-
-## Portada del Proyecto
-
 ![Portada del Proyecto](https://res.cloudinary.com/dpvzlh1zv/image/upload/v1782172863/PFO%20N%C2%B0%202%20DSWF/Portada_PFO2_mvanxi.png)
+</div>
 
 ---
 
 ## Landing Generada por GPT-5.5 (Codex)
 
+<div align="center">
 ![Codex](https://res.cloudinary.com/dpvzlh1zv/image/upload/v1782172863/PFO%20N%C2%B0%202%20DSWF/Agente_codex_fu5afz.png)
+</div>
 
 ---
 
 ## Landing Generada por Claude Sonnet
 
+<div align="center">
 ![Claude](https://res.cloudinary.com/dpvzlh1zv/image/upload/v1782172864/PFO%20N%C2%B0%202%20DSWF/Agente_claude_lonk67.png)
-
 </div>
 
 ---
