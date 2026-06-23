@@ -128,39 +128,27 @@ Comienza a escribir el código directamente.
 
 ## Portada del Proyecto
 
-![Portada](./screenshots/portada.png)
+---
+
+<div align="center">
+
+## Portada del Proyecto
+
+![Portada del Proyecto](https://res.cloudinary.com/dpvzlh1zv/image/upload/v1782172863/PFO%20N%C2%B0%202%20DSWF/Portada_PFO2_mvanxi.png)
 
 ---
 
 ## Landing Generada por GPT-5.5 (Codex)
 
-![Codex](./screenshots/codex.png)
+![Codex](https://res.cloudinary.com/dpvzlh1zv/image/upload/v1782172863/PFO%20N%C2%B0%202%20DSWF/Agente_codex_fu5afz.png)
 
 ---
 
 ## Landing Generada por Claude Sonnet
 
-![Claude](./screenshots/claude.png)
+![Claude](https://res.cloudinary.com/dpvzlh1zv/image/upload/v1782172864/PFO%20N%C2%B0%202%20DSWF/Agente_claude_lonk67.png)
 
----
-
-# Comparación General
-
-| Característica | GPT-5.5 (Codex) | Claude Sonnet |
-|---------------|----------------|---------------|
-| Diseño Visual | Excelente | Excelente |
-| Responsive | Sí | Sí |
-| Calidad UI/UX | Alta | Alta |
-| Efectos Visuales | Avanzados | Avanzados |
-| Organización del Código | Buena | Buena |
-
----
-
-# Conclusiones
-
-A partir de la ejecución del mismo prompt en ambos agentes fue posible observar diferencias en la interpretación de requisitos, estructura visual, experiencia de usuario y calidad del código generado.
-
-La utilización de Prompt Engineering permitió definir una especificación clara y reutilizable para comparar capacidades de generación autónoma en herramientas modernas de desarrollo asistido por Inteligencia Artificial.
+</div>
 
 ---
 
